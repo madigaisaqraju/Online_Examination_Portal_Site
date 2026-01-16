@@ -49,7 +49,7 @@ public class QuestionService {
         questions.add(new Question(10, "Which port does Spring Boot use by default?",
                 "3000", "4200", "8080", "9090", "C"));
     }
-
+    
     public List<Question> getAllQuestions() {
         return questions;
     }
