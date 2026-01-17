@@ -1,7 +1,7 @@
 let questions = [];
 
 function loadQuestions() {
-    fetch("http://localhost:8080/api/questions")
+    fetch("/api/questions")
         .then(res => res.json())
         .then(data => {
             questions = data;
