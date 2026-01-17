@@ -15,6 +15,6 @@ The source code is available at:
 ## Features
 
 - Create and manage online exams
-- Student login and registration
+- Student can write exam here
 - Exam results and scores
-- Admin dashboard to manage questions and users
+- responsive design
